@@ -4,5 +4,5 @@ Git has a mutable index called stage.
 
 Create a new branch is quick and simple.
 Merge dev content.
+Change by other programer.
 Dev working....
-
