@@ -3,3 +3,4 @@ Git is free software , change it !
 Git has a mutable index called stage.
 
 Create a new branch is quick and simple.
+Merge dev content.
